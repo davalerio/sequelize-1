@@ -8,3 +8,7 @@
   - sequelize
   - mysql2
   - sequelize-cli
+  - cors
+  - dotenv
+  - bcryptjs
+  - jsonwebtoken
